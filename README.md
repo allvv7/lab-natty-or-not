@@ -32,10 +32,14 @@ Liste as IAs Generativas e outras ferramentas usadas
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Abaixo está a imagem final, onde a paisagem do Rio de Janeiro foi alterada pela IA. A alteração sutil dos dois montes no mar cria uma nova configuração geográfica, mantendo o aspecto fotográfico e ultrarrealista.
+
+![Imagem da paisagem do Rio de Janeiro com dois montes extras no mar](assets/rio_fake_natty.jpg)
+
+https://github.com/allvv7/lab-natty-or-not/blob/main/asset/rio_fake_natty.jpg.png [rio_fake_natty.jpg](assets/rio_fake_natty.jpg)
+
+
 ```
 
 ### Exemplos e Insigths
