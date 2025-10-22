@@ -20,16 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Paisagem Fake Natty: O Rio de Janeiro Secreto
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma imagem ultrarrealista da icônica paisagem carioca, com uma sutil, mas intencional, alteração geográfica para testar o realismo da IA Generativa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Modelo de Geração de Imagem Nano Banana Google Gemini
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+A criação da imagem "Paisagem Fake Natty" foi um exercício em realismo e manipulação geográfica sutil, realizado com o auxílio de um modelo de IA Generativa. O processo seguiu as seguintes etapas:
+
+1.  **Definição do Alvo (Natty):** Foi escolhida a icônica paisagem do Rio de Janeiro (Pão de Açúcar, Cristo Redentor, Baía de Guanabara) por ser imediatamente reconhecível, o que tornaria a alteração mais impactante.
+2.  **Geração da Base Realista:** Inicialmente, a IA foi instruída com um *prompt* detalhado focado em alta qualidade fotográfica (iluminação, lente, cores) para garantir um aspecto ultrarrealista, simulando uma fotografia profissional.
+3.  **Implementação da Alteração (Fake):** A fase crucial foi a instrução para introduzir um elemento geográfico inexistente: **a adição de dois pequenos montes dentro do mar** na Baía de Guanabara.
+4.  **Iteração e Refinamento:** A IA foi então solicitada a integrar esses novos elementos de forma orgânica, com reflexos, vegetação e iluminação consistentes, para que parecessem parte natural da paisagem.
+
+O objetivo foi testar a capacidade da IA de criar uma "nova realidade" que fosse indistinguível de uma fotografia aérea real, cumprindo o desafio de criar algo sutilmente "Fake Natty".
 
 ## 🚀 Resultados
 
